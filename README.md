@@ -1,5 +1,17 @@
-Developed a high-performance Computational Unit (CU) from transistor-level circuits with the help of industry-standard tools LTSPICE and Electric.
-From the ground up, designed and optimized circuits at the transistor level, executing a wide range of arithmetic and logical operations.
-Set-up the integration of Arithmetical and Logical Units within the Computational Unit, establishing a unified input interface to streamline data processing.
-Conducted testing and validation of the ALU design, and analyzed circuit behaviour, identified potential issues, and refined the design for better performance.
+# High-Performance ALU Design
+Overview:\
+Designed and implemented a high-performance Arithmetic Logic Unit (ALU) from the transistor level, with knowledge in digital circuit design.
+
+Key Features:\
+Full-Custom Design: Developed circuits from the ground up using LTSPICE, Electric, and Cadence for simulation, design, and layout.
+Optimized Architecture: Integrated Arithmetic and Logical Units with a unified input interface for streamlined data processing.
+Efficient Control Logic:
+Decoders: Activated specific ALU units based on operation selection.
+Multiplexers (Mux's): Managed output selection for accurate and reliable computation.
+Thorough Validation: Conducted rigorous simulation and testing to ensure optimal performance and functionality.
+
+Tools & Technologies:\
+LTSPICE – Circuit simulation
+Electric – VLSI design
+Cadence – Layout and verification
  
